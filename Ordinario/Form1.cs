@@ -9,7 +9,7 @@ namespace Ordinario
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Rubem is ass ");
+            MessageBox.Show("Alan es un puto perro pendejo de mierda");
         }
     }
 }
